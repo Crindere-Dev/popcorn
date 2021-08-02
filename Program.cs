@@ -12,12 +12,16 @@ public class Program
         {
         Console.WriteLine("Card Declined.");
         Console.WriteLine("Crin: Sorry Mate, guess you can't enjoy your popcorn.");
+        Console.WriteLine("Do you want to try again?");
+        Console.ReadLine();
+        
 
       }else if (cash > 10) {
         int result = cash - 10;
 
         Console.WriteLine($"Here's your cash :D");
-        Typewrite($"Crin hands you {result}");
+        Typewrite($"Crin hands you £{result}");
+        Console.ReadLine();
 
         }
 
