@@ -1,12 +1,24 @@
 ﻿using System;
-
-namespace popcorn
+                    
+public class Program
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
+        Console.WriteLine("Crin: Welcome! Popcorn is £10, Please insert cash here: ");
+        
+        int cash =     Convert.ToInt32(Console.ReadLine());
+        
+        if (cash < 10)
         {
-            Console.WriteLine("Hello World!");
-        }
+        Console.WriteLine("Card Declined.");
+        Console.WriteLine("Crin: Sorry Mate, guess you can't enjoy your popcorn.");
+        
+        }    
+        else
+        {
+        Console.WriteLine("Card Approved.");
+        Console.WriteLine("Crin: Enjoy!");
+        }    
+        
     }
 }

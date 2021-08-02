@@ -1,0 +1,16 @@
+D:\UMMM\popcorn\bin\Debug\net5.0\popcorn.exe
+D:\UMMM\popcorn\bin\Debug\net5.0\popcorn.deps.json
+D:\UMMM\popcorn\bin\Debug\net5.0\popcorn.runtimeconfig.json
+D:\UMMM\popcorn\bin\Debug\net5.0\popcorn.runtimeconfig.dev.json
+D:\UMMM\popcorn\bin\Debug\net5.0\popcorn.dll
+D:\UMMM\popcorn\bin\Debug\net5.0\ref\popcorn.dll
+D:\UMMM\popcorn\bin\Debug\net5.0\popcorn.pdb
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.csproj.AssemblyReference.cache
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.AssemblyInfoInputs.cache
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.AssemblyInfo.cs
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.csproj.CoreCompileInputs.cache
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.dll
+D:\UMMM\popcorn\obj\Debug\net5.0\ref\popcorn.dll
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.pdb
+D:\UMMM\popcorn\obj\Debug\net5.0\popcorn.genruntimeconfig.cache
